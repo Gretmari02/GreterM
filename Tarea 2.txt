@@ -1,0 +1,3 @@
+-Instalar git en su pc
+-Registrase en git o github
+-Clonar el repositorio público que aparese en mi cuenta de git llamado (Tarea 2) Enlace para clonar:
